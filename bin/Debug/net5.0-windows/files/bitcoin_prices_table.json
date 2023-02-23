@@ -1,0 +1,114 @@
+[
+  {
+    "currency": "ARS",
+    "cost": "8665242,04"
+  },
+  {
+    "currency": "AUD",
+    "cost": "35053,17"
+  },
+  {
+    "currency": "BRL",
+    "cost": "124084,28"
+  },
+  {
+    "currency": "CAD",
+    "cost": "32264,39"
+  },
+  {
+    "currency": "CHF",
+    "cost": "22222,62"
+  },
+  {
+    "currency": "CLP",
+    "cost": "19091051,84"
+  },
+  {
+    "currency": "CNY",
+    "cost": "172594,73"
+  },
+  {
+    "currency": "CZK",
+    "cost": "532477,64"
+  },
+  {
+    "currency": "DKK",
+    "cost": "166520,55"
+  },
+  {
+    "currency": "EUR",
+    "cost": "22494,81"
+  },
+  {
+    "currency": "GBP",
+    "cost": "19804,31"
+  },
+  {
+    "currency": "HKD",
+    "cost": "187524,86"
+  },
+  {
+    "currency": "HRK",
+    "cost": "122802,94"
+  },
+  {
+    "currency": "HUF",
+    "cost": "8272425,82"
+  },
+  {
+    "currency": "INR",
+    "cost": "1967367,49"
+  },
+  {
+    "currency": "ISK",
+    "cost": "3480538,24"
+  },
+  {
+    "currency": "JPY",
+    "cost": "3217507,89"
+  },
+  {
+    "currency": "KRW",
+    "cost": "31233706,18"
+  },
+  {
+    "currency": "NZD",
+    "cost": "38340,37"
+  },
+  {
+    "currency": "PLN",
+    "cost": "107341,2"
+  },
+  {
+    "currency": "RON",
+    "cost": "97601,37"
+  },
+  {
+    "currency": "RUB",
+    "cost": "1791008,02"
+  },
+  {
+    "currency": "SEK",
+    "cost": "250763,32"
+  },
+  {
+    "currency": "SGD",
+    "cost": "31911,96"
+  },
+  {
+    "currency": "THB",
+    "cost": "822837,53"
+  },
+  {
+    "currency": "TRY",
+    "cost": "462249,5"
+  },
+  {
+    "currency": "TWD",
+    "cost": "598908,39"
+  },
+  {
+    "currency": "USD",
+    "cost": "23864,2"
+  }
+]

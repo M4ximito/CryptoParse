@@ -1,0 +1,114 @@
+[
+  {
+    "currency": "ARS",
+    "cost": 8600173.93
+  },
+  {
+    "currency": "AUD",
+    "cost": 34741.72
+  },
+  {
+    "currency": "BRL",
+    "cost": 124119.39
+  },
+  {
+    "currency": "CAD",
+    "cost": 32001.01
+  },
+  {
+    "currency": "CHF",
+    "cost": 21957.1
+  },
+  {
+    "currency": "CLP",
+    "cost": 19017550.92
+  },
+  {
+    "currency": "CNY",
+    "cost": 172490.3
+  },
+  {
+    "currency": "CZK",
+    "cost": 528524.09
+  },
+  {
+    "currency": "DKK",
+    "cost": 165283.44
+  },
+  {
+    "currency": "EUR",
+    "cost": 22293.53
+  },
+  {
+    "currency": "GBP",
+    "cost": 19624.61
+  },
+  {
+    "currency": "HKD",
+    "cost": 186131.71
+  },
+  {
+    "currency": "HRK",
+    "cost": 122728.63
+  },
+  {
+    "currency": "HUF",
+    "cost": 8267420.16
+  },
+  {
+    "currency": "INR",
+    "cost": 1950841.59
+  },
+  {
+    "currency": "ISK",
+    "cost": 3478432.16
+  },
+  {
+    "currency": "JPY",
+    "cost": 3191550.75
+  },
+  {
+    "currency": "KRW",
+    "cost": 31014412.7
+  },
+  {
+    "currency": "NZD",
+    "cost": 37985.96
+  },
+  {
+    "currency": "PLN",
+    "cost": 106510.92
+  },
+  {
+    "currency": "RON",
+    "cost": 97542.31
+  },
+  {
+    "currency": "RUB",
+    "cost": 1779597.28
+  },
+  {
+    "currency": "SEK",
+    "cost": 248900.35
+  },
+  {
+    "currency": "SGD",
+    "cost": 31773.36
+  },
+  {
+    "currency": "THB",
+    "cost": 816961.4
+  },
+  {
+    "currency": "TRY",
+    "cost": 458578.51
+  },
+  {
+    "currency": "TWD",
+    "cost": 598545.99
+  },
+  {
+    "currency": "USD",
+    "cost": 23686.91
+  }
+]
